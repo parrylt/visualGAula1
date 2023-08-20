@@ -1,0 +1,47 @@
+<html> 
+
+<head> 
+
+<title> OVO FRITO </title>
+
+</head>
+
+<body> 
+<u> <i> <b> COMO FRITAR UM OVO </br> </b> </i> </u>
+</br>
+</br>
+<b> 1. </b> Pegar o ovo na geladeira. </br>
+</br>
+<b> 2. </b> Pegar a frigideira no armario. </br>
+</br>
+<b> 3. </b> Acender a boca do fogão em fogo baixo. </br>
+</br>
+<b> 4. </b> Colocar a frigideira em cima do fogo aceso. </br>
+</br>
+<b> 5. </b> Adicionar oleo na frigideira. </br>
+</br>
+<b> 6. </b> Esperar o oleo aquecer. </br>
+</br>
+<b> 7. </b> Pegar um recipiente no armario. </br>
+</br>
+<b> 8. </b> Quebrar o ovo no recipiente. </br>
+</br>
+<b> 9. </b> Verificar se o ovo está em condições de consumo. </br>
+</br>
+<b> 10. </b> Se estiver em condições, adicionar o ovo na frigideira. </br>
+</br>
+<b> 11. </b> Senão descartar o ovo e tentar com outro. </br>
+</br>
+<b> 12. </b> Temperar o ovo com sal, pimenta, salsa e paprica. </br>
+</br>
+<b> 13. </b> Aguardar até a parte do ovo em contato com a frigideira dourar. </br>
+</br>
+<b> 14. </b> Virar o ovo e esperar a outra parte do ovo dourar. </br>
+</br>
+<b> 15. </b> Desligar o fogo. </br>
+</br>
+<b> 16. </b> Retirar o ovo da frigideira e colocar em um prato. </br>
+
+</body>
+
+</html>

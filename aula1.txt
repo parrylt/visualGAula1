@@ -1,0 +1,19 @@
+nome1, nome2: caracter
+ra1, ra2, telefone1, telefone2: inteiro
+
+escreval("-----ETEC-----")
+nome1 <- "Daniel Alves"
+nome2 <- "Daniel Gomes"
+ra1 <- 0001
+ra2 <- 0002
+telefone1 <- 45655585
+telefone2 <- 74854964
+
+escreval ("-----ETEC-----")
+escreval ("Aluno: ", nome1)
+escreval ("RA: ", ra1)
+escreval ("Telefone: ", telefone1)
+escreval ("-----ETEC-----")
+escreval ("Aluno: ", nome2)
+escreval ("RA: ", ra2)
+escreval ("Telefone: ", telefone2)

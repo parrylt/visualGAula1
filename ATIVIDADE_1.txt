@@ -1,0 +1,36 @@
+Algoritmo "Atividade_1"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 03/02/2023
+Var
+// Seção de Declarações das variáveis 
+    etec:caracter
+    ra:caracter
+    aluno:caracter
+    telefone:caracter
+    traco:caracter
+    ra2:caracter
+    aluno2:caracter
+    telefone2:caracter
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+      etec <- "-----ETEC-----"
+      ra <- "RA: 0001"
+      aluno <- "Aluno: Daniel Lopes"
+      telefone <- "Telefone: (11) 99677-9999"
+      traco <- "-------------------------"
+      ra2 <- "RA: 0002"
+      aluno2 <- "Aluno: Carol Gomes"
+      telefone2 <- "Telefone: (15) 4640-7070"
+      escreval (etec)
+      escreval (ra)
+      escreval (aluno)
+      escreval (telefone)
+      escreval (traco)
+      escreval (ra2)
+      escreval (aluno2)
+      escreval (telefone2)
+Fimalgoritmo
